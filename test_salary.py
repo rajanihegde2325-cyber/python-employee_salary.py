@@ -1,4 +1,4 @@
-import pytest
+
 from salary import calculate_gross_salary
 
 
